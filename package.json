@@ -33,6 +33,7 @@
   "homepage": "https://github.com/novalabio/react-native-maps-super-cluster#readme",
   "dependencies": {
     "@mapbox/geo-viewport": "^0.4.0",
+    "react-native-maps": "https://github.com/petemusicpancake/react-native-maps",
     "supercluster": "^6.0.2"
   },
   "peerDependencies": {
